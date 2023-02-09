@@ -85,7 +85,7 @@ export default function About() {
                 delivering top-notch results..
               </p>
               <p>
-                If you' re looking for a passionate and reliable frontend
+                If you are looking for a passionate and reliable frontend
                 developer who values family, I would be honored to work with
                 you.
               </p>
